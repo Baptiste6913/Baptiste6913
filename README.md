@@ -15,7 +15,7 @@ I am CTO and AI Engineer at Syntexia.AI, which builds an AI layer that runs insi
 <!-- work:start -->
 - **[ede-platform](https://github.com/Baptiste6913/ede-platform)**: Merger arbitrage engine that scores European takeover bids from regulator filings and drives paper trading.<br><sub>Python · last push 2026-10-06</sub>
 - **[coach-lifestyle](https://github.com/Baptiste6913/coach-lifestyle)**: Next.js and Supabase app that runs a strength program as a live workout screen with per-set logging.<br><sub>TypeScript, PLpgSQL · last push 2026-10-06</sub>
-- **[Osint-tool](https://github.com/Baptiste6913/Osint-tool)**: Node.js service that finds and scores professional contact details for a named person at a company, from public sources and APIs.<br><sub>JavaScript, HTML · last push 2026-10-05</sub>
+- **[Osint-tool](https://github.com/Baptiste6913/Osint-tool)**: Node.js service that finds and scores professional contact details for a named person at a company, from public sources and APIs.<br><sub>JavaScript, HTML · last push 2026-10-06</sub>
 <!-- work:end -->
 
 ## Latest engineering commits
