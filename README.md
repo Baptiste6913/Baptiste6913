@@ -21,11 +21,11 @@ I am CTO and AI Engineer at Syntexia.AI, which builds an AI layer that runs insi
 ## Latest engineering commits
 
 <!-- activity:start -->
+- `2026-10-19` [rhinovate](https://github.com/Baptiste6913/rhinovate/commit/f94b9096d3504f0988a08baa448375e258875fed): Open the home page on a live sequence: scan, model, plan, recovery
+- `2026-10-19` [rhinovate](https://github.com/Baptiste6913/rhinovate/commit/d268c1264a649c4c7e9cbaa68cf69597b30796ac): Use the Rhinovate contact address instead of an unowned domain
 - `2026-06-25` [Osint-tool](https://github.com/Baptiste6913/Osint-tool/commit/4ea70fccb2de8d89c240750c64effabd7ae21a5f): v6.0: multi-source resilience, free sources, SMTP/MX validation, RGPD, CRM exports
 - `2026-06-03` [ede-platform](https://github.com/Baptiste6913/ede-platform/commit/3056083033e5067cd855cd936bd554eff8077273): feat(phase-14): generate actionable decisions for fresh pool
 - `2026-06-03` [ede-platform](https://github.com/Baptiste6913/ede-platform/commit/f00a00a068be8b4ed170aa09c8c506f544ed7860): feat(phase-14): score fresh deal pool with V1 model
-- `2026-05-26` [coach-lifestyle](https://github.com/Baptiste6913/coach-lifestyle/commit/2d93bd4baf3ee7526648627bf4ba5b4247e64237): feat(ui): cohérence visuelle Phase 1
-- `2026-05-26` [coach-lifestyle](https://github.com/Baptiste6913/coach-lifestyle/commit/0673bedf5ab1243e1dfa1bf53cc7e26a61ee477b): feat(dashboard): nav cards Lancer séance + Saisir 1RM
 <!-- activity:end -->
 
 <sub>Both sections are rebuilt every day by a GitHub Action in this repository (<a href=".github/workflows/readme.yml">workflow</a>, <a href="scripts/build_readme.py">script</a>).</sub>
